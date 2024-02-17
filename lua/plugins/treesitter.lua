@@ -6,7 +6,6 @@ return {
       "go",
       "gomod",
       "gowork",
-      "help",
       "html",
       "javascript",
       "json",
