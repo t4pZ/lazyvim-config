@@ -5,7 +5,6 @@ return {
       "stylua",
       "shellcheck",
       "shfmt",
-      "svelte-language-server",
       "tailwindcss-language-server",
       "gopls",
       "goimports",
