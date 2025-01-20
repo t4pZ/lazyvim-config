@@ -5,9 +5,9 @@ return {
       servers = {
         zls = {
           mason = false,
-          path = "/home/tap/zig/current",
+          path = "$HOME/zig/current",
           Zls = {
-            path = "/home/tap/zls/current",
+            path = "$HOME/zls/current",
             enableAutofix = true,
             enable_snippets = true,
             enable_ast_check_diagnostics = true,
