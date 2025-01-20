@@ -4,7 +4,7 @@ return {
     lazy = true,
     name = "catppuccin",
     opts = {
-      transparent_background = true, -- this is the important line
+      transparent_background = true,
       term_colors = true,
     },
   },
