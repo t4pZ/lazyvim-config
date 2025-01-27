@@ -3,7 +3,6 @@ return {
     "neovim/nvim-lspconfig",
     opts = {
       servers = {
-        ols = {},
         zls = {
           mason = false,
           path = "$HOME/zig/current",
@@ -26,5 +25,9 @@ return {
         },
       },
     },
+  },
+  {
+    "nvim-treesitter/nvim-treesitter",
+    opts = { ensure_installed = { "zig" } },
   },
 }
