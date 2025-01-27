@@ -3,6 +3,7 @@ return {
     "neovim/nvim-lspconfig",
     opts = {
       servers = {
+        ols = {},
         zls = {
           mason = false,
           path = "$HOME/zig/current",
