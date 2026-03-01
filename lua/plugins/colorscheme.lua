@@ -8,7 +8,6 @@ return {
       term_colors = true,
     },
   },
-
   {
     "LazyVim/LazyVim",
     opts = {
